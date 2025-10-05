@@ -1,0 +1,2 @@
+# jac.toml
+plugins = ["byllm"]
